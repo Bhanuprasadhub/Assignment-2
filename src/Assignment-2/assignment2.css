@@ -1,28 +1,16 @@
-#container{
-    width: 100%;
-    border:1px solid grey;
-    background:white;
-    
-}
-    
 header{
     padding:5px;
     background:white;
+  background:#00FFFF;
 }
 .image1{
-    border:1px solid grey;
-    background:#00FFFF;
-    width:100%;
-    padding:5px;
-    margin:5px;
-    
+  margin:5px;
+ 
 }
-.searchform{
-    float:right;
-    top:2%;
-    text-align:center;
-}
-    
+header .qq{
+  float:right;
+  margin:2%
+}    
 .image1,form{
     display:inline-flex;
 }
